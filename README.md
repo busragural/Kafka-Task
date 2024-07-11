@@ -150,7 +150,8 @@ def get_data():
 
 _A Dockerfile is a script containing a series of instructions on how to build a Docker image. It specifies the base image, the software and dependencies to be installed, configurations to be set, and commands to be run to assemble the final image._
 
-- Created requirements.txt . 
+- Created requirements.txt .
+  
 _List of Python dependencies required for the project._
 
 - Created Docker image.
